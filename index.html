@@ -6,78 +6,69 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>Profile</title>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link href='./style.css' rel='stylesheet'>
 </head>
 
 <body>
-    <div id="main">
-        <div id="header">
-            <div class="background"></div>
-            <div class="information">
-                <div class="div-avatar">
-                    <div class="border-avatar">
-                        <img id="avatar" src="https://drive.google.com/uc?export=download&id=1sdNJ0OW4zuHumTWu4WnIeqSui_TsCZGt">
-                    </div>
-                </div>
-                <div class="div-name-app">
-                    <div class="div-name">
-                        <span>Vinh Trần(Karasuma)</span>
-                    </div>
-                    <div class="div-app">
-                        <ul>
-                            <li title="Facebook">
-                                <!-- Đổi link Facebook của bạn -->
-                                <a href="https://www.facebook.com/tien2k6v1">
-                                    <img class="icon" src="https://drive.google.com/uc?export=download&id=10zur_uDafg5YkgF6h46gWsjEROyiONa_" alt="Icon Facebook">
-                                    <span class="title">Facebook</span>
-                                </a>
-                            </li>
-                            <li title="Instagram">
-                                <!-- Đổi link Instagram của bạn -->
-                                <a href="#">
-                                    <img class="icon" src="https://drive.google.com/uc?export=download&id=1OQ0s3MU7DMA00ud8z17vfEw6JZir1oqu" alt="Icon Instagram">
-                                    <span class="title">Instagram</span>
-                                </a>
-                            </li>
-                            <li title="TikTok">
-                                <!-- Đổi link TikTok của bạn -->
-                                <a href="#">
-                                    <img class="icon" src="https://drive.google.com/uc?export=download&id=1dO33ViDnL7YZda0-9bMYcbBz-x5nYvdi" alt="Icon TikTok">
-                                    <span class="title">TikTok</span>
-                                </a>
-                            </li>
-                            <li title="Github">
-                                <!-- Đổi link Github hoặc App Khác bạn muốn người khác biết tới-->
-                                <a href="#">
-                                    <img class="icon" src="https://drive.google.com/uc?export=download&id=1FEw4B3aOVX8tTjuOF7BHdg3Zx6dvw27V" alt="Icon Github">
-                                    <span class="title">Github</span>
-                                </a>
-                            </li>
-                            <li title="Replit">
-                                <!-- Đổi link Replit hoặc App Khác bạn muốn người khác biết tới-->
-                                <a href="#">
-                                    <img class="icon" src="https://drive.google.com/uc?export=download&id=13xywKSVnd5WqAZefRiV7rhvnOGCyaCgA" alt="Icon Replit">
-                                    <span class="title">Replit</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="project">
-            <span class="title">Project Web</span>
-            <span class="tips"></span>
-            <!-- Bạn có thể tự code hoặc liên hệ https://www.facebook.com/vinhtran.karasuma.coder.206 để code/design lại theo ý của bạn -->
-            <ul>
-                <li title="Sample Profile 1 - Để yên chuột và chờ chút để tải xem trước!">
-                    <a href="#">
-                        <img class="preview" src="https://drive.google.com/uc?export=download&id=1_jp4aekIoeYRT0w6O6JflFfgOf0gdYn_">
-                        <span class="title">Sample Profile 1</span>
-                    </a>
-                </li
+    <div class="div div-loader" id="div__loader">
+        <span class="loader"></span>
     </div>
-    <script src='./js.js'></script>
+    <div class="div div-main" id="div__main">
+        <div class="div div-show-avatar" id="div__show__avatar">
+            <img class="show-avatar" id="show__avatar" src="" alt="Show Avatar">
+        </div>
+        <div class="div main">
+            <div class="div div-profile" id="div__profile">
+                <div class="div profile">
+                    <div class="div summary-information">
+                        <div class="div div-avatar">
+                            <div class="div avatar-border" id="avatar__border">
+                                <img class="avatar" id="avatar" src="" alt="Avatar Profile">
+                            </div>
+                        </div>
+                        <div class="div div-name">
+                            <span class="nickname" id="nickname"></span>
+                            <span class="realName" id="realName"></span>
+                        </div>
+                    </div>
+                    <div class="div div-underline">
+                        <div class="div underline"></div>
+                    </div>
+                    <div class="div link-information">
+                        <div class="div div-link link-facebook" id="link__facebook">
+                            <img class="icon-app" src="https://drive.google.com/uc?export=download&id=1BsROyksiOCJ4pNYx9fADTkj3yrkI69-z" alt="Icon Facebook">
+                            <span class="name-app">Facebook</span>
+                        </div>
+
+<div id="my-div">
+  Đây là một thẻ div.
+
+
+
+
+                        <div class="div div-link link-discord" id="link__discord">
+                            <img class="icon-app" src="https://drive.google.com/uc?export=download&id=1RS4rmM_biwOuluq4AMAZhlEdAfVLbF1i" alt="Icon Discord">
+                            <span class="name-app">Discord</span>
+                        </div>
+                        <div class="div div-link link-tiktok" id="link__tiktok">
+                            <img class="icon-app" src="https://drive.google.com/uc?export=download&id=1-P3VuAc4UKYkNh-4yxmU7XDTgghlKPnU" alt="Icon TikTok">
+                            <span class="name-app">TikTok</span>
+                        </div>
+                        <div class="div div-link link-instagram" id="link__instagram">
+                            <img class="icon-app" src="https://drive.google.com/uc?export=download&id=1cqlUYE_82QnzD6Ci3ViDHoKNM60aSCgJ" alt="Icon Instagram">
+                            <span class="name-app">Instagram</span>
+                        </div>
+                    </div>
+                </div>
+  
+            </div>          </div>
+        </div>
+    </div>
+    <script src='./config.js'></script>
+    <script src='./action.js'></script>
 </body>
 
 </html>
