@@ -4,7 +4,7 @@
 ImgLink_Background = "https://drive.google.com/uc?export=download&id=1rSzei6k-7if150M9IhO0CpeUZGlSQJwv"
 
 //Link Ảnh Avatar
-ImgLink_Avatar = ""
+ImgLink_Avatar = "https://drive.google.com/uc?export=download&id=1k7YS_IYC3iKSFwNTSGEt2I9I5Ehn1Jsg"
 
 //Nickname
 Nickname_Profile = "NTz"
