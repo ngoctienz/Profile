@@ -12,7 +12,7 @@ Nickname = document.querySelector("#nickname")
 RealName = document.querySelector("#realName")
 divLink = document.querySelectorAll(".div-link")
 document.querySelector("#coder").onclick = () => {
-    window.location = "https://www.facebook.com/tien2k6v1/"
+    window.location = "mailto:tien2k6v1@gmail.com"
 }
 
 window.onload = () => {
