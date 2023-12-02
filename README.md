@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**pk9r327/pk9r327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tien2k6z1/Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 📊 My Github stats
 
-![pk9r327's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk9r327)
+![Ngoc Tien Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=tien2k6z1)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pk9r327)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tien2k6z1)
