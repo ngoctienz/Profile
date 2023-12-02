@@ -1,21 +1,21 @@
 //====Nhập Thông Tin Của Bạn Vào Đây==============
 
 //Link Ảnh Background
-ImgLink_Background = "https://drive.google.com/uc?export=download&id=1rSzei6k-7if150M9IhO0CpeUZGlSQJwv"
+ImgLink_Background = "./Background.png"
 
 //Link Ảnh Avatar
-ImgLink_Avatar = "https://drive.google.com/uc?export=download&id=1k7YS_IYC3iKSFwNTSGEt2I9I5Ehn1Jsg"
+ImgLink_Avatar = "./Avatar.png"
 
 //Nickname
-Nickname_Profile = "NTz"
+Nickname_Profile = "Ngọc Tiên Z"
 
 //Tên Thật
-RealName_Profile = "Ngọc Tiên Z"
+RealName_Profile = "NTz"
 
 //Các Link Của Bạn
 LinkInformation = [
     Facebook_LinkProfile = "https://www.facebook.com/tien2k6v1/",
-    Discord_LinkProfile = "#discors",
+    Discord_LinkProfile = "http://zaloapp.com/qr/p/628hjx0dqvqj",
     TikTok_LinkProfile = "#tiktok",
-    Instagram_LinkProfile = "#instagram"
+    Instagram_LinkProfile = "http://youtube.com/ngoctienz"
 ]
