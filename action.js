@@ -24,7 +24,7 @@ window.onload = () => {
     for (let i = 0; i < divLink.length; i++) {
         divLink[i].onclick = () => {
             if (i == 1) {
-                alert("Kết Bạn Với " + LinkInformation[i])
+                window.location = LinkInformation[i]
             } else {
                 window.location = LinkInformation[i]
             }
