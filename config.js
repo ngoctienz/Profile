@@ -17,5 +17,5 @@ LinkInformation = [
     Facebook_LinkProfile = "https://www.facebook.com/tien2k6v1/",
     Discord_LinkProfile = "http://zaloapp.com/qr/p/628hjx0dqvqj",
     TikTok_LinkProfile = "#tiktok",
-    Instagram_LinkProfile = "http://youtube.com/ngoctienz"
+    Instagram_LinkProfile = "http://youtube.com/@ngoctienz"
 ]
