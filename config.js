@@ -7,7 +7,7 @@ ImgLink_Background = "./Background.png"
 ImgLink_Avatar = "./Avatar.png"
 
 //Nickname
-Nickname_Profile = "Ngọc Tiên Z"
+Nickname_Profile = "Ngoc Tien Z"
 
 //Tên Thật
 RealName_Profile = "NTz"
